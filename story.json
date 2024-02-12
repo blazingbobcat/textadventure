@@ -1,0 +1,6 @@
+{
+    "0": ["\"I've got to find Bella!\"\nYou find yourself in the middle of a dense rainforest.  There is a tree ahead that looks like it would afford you a view of the way out.  There is also a bush that looks like you can climb over it.", [1, 2], "Go Back", ""],
+    "1": ["You climb the tree and are immediately met with the hot sun.  The canopy appears to be a world of its own.  The leaves of the tree do not block your view of the whole rainforest since you are on top of everything.  Many vines stretch across the treetops appearing to form a network of bridges across the whole rainforest.  You don’t know where to go, but you want out of this hot sun already and, further, the sweat on your head may attract unwanted guests.  You can go across the vines or change the course of your journey by going back.", [0,0], "Climb the tree",""],
+    "2": ["You climb over the bush and see a huge valley that leads up to a tall mountain.  The mountain itself appears to be covered with more of these exotic trees.  The valley is full of vegetation and fungi as well.  You can go straight ahead towards the mountain or perhaps you would rather climb to the canopy of the jungle.", [0,0], "Climb the bush",""],
+    "10": ["You fell over and now you are in grave pain ... ", ["end"], "Pull out Laptop", ""]
+}
